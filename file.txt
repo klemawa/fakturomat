@@ -1,2 +1,2 @@
 Line 1: Hello from main branch
-Line 2: Initial content in main branch
+Line 2: Updated content in main branch
