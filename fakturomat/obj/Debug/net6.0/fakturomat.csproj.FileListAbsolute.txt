@@ -1,0 +1,15 @@
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.csproj.AssemblyReference.cache
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.AssemblyInfoInputs.cache
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.AssemblyInfo.cs
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.csproj.CoreCompileInputs.cache
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\fakturomat.exe
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\fakturomat.deps.json
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\fakturomat.runtimeconfig.json
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\fakturomat.dll
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\ref\fakturomat.dll
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\bin\Debug\net6.0\fakturomat.pdb
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.dll
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\ref\fakturomat.dll
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.pdb
+C:\Users\Klementyna\source\repos\fakturomat\fakturomat\obj\Debug\net6.0\fakturomat.genruntimeconfig.cache
